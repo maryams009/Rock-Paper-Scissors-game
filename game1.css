@@ -1,0 +1,30 @@
+body{
+    background:linear-gradient(#BF3F7F,#BFBF3F);
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+    text-align: center;
+}
+h2{
+    background-color: black;
+    border-radius: 45%;
+    padding: 20px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 35px;
+    color: whitesmoke;
+    text-shadow: 1px 1px 1px whitesmoke;
+    
+}
+button{
+    background-color: black;
+    color: antiquewhite;
+    padding: 10px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 50%;
+    border: solid black;
+    box-shadow: 3px 3px 6px black;
+}
